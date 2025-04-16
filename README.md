@@ -16,7 +16,7 @@ This project aims to create a RISC-V assembler capable of encoding instructions 
 Makefile
 README.md          
 
-In addition, there is a 'tested_cases' file that contains all the cases I have tested.
+In addition, there are '.s' files that have been used for testing
 
 ##Usage instructions
 -This implementation supports blank lines as well as comments 
