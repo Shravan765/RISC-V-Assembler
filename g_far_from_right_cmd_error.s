@@ -1,3 +1,3 @@
 add zero, x1, x29      ;jhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-sub x31, t0, t1                                                                                                         
+sub x31, t0, t1                                                                                                     g    
 or x11, t4, s0
