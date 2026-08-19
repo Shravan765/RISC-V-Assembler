@@ -13,7 +13,6 @@ This project aims to create a RISC-V assembler capable of encoding instructions 
 'i_instruction.c' 
 'jalr_instruction.c'  
 'u_instruction.c'
-Makefile
 README.md          
 
 In addition, there are '.s' files that have been used for testing
